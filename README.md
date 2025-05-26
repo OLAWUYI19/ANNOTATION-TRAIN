@@ -157,11 +157,14 @@ Gained practical experience in brush-based segmentation techniques and visual QA
 
 **Confidentiality Note**
 There weren't any form of NDA terms, which is why I have the confidence to share the link to
-The project I worked on
+
+**After segmentation has been on CVAT PLATFORM**
 https://drive.google.com/drive/folders/144iwWucJQx5nkxJ7TvkBpRjDIuWG8FrM?usp=sharing.
 
-Image used before segmentation take place
+**Image used before segmentation takes place**
 ![8](https://github.com/user-attachments/assets/464129a9-63ff-442e-a9b6-cab1948e5d6d)
+![7](https://github.com/user-attachments/assets/2b522315-1e7e-47ff-a399-42bc9572a4d1)
+
 
 
 **Skills Demonstrated**
