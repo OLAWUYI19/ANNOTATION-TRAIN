@@ -8,7 +8,7 @@ I'm a highly skilled Data Annotator with over three years of experience in text,
 ✔ Annotation tools & methodologies   
 ✔ Certified by **Softechub**  
 
-## 📌 Video Annotation Projects  
+## 📌 VIDEO ANNOTATION PROJECTS  
 Video Annotation – Football Activity Detection, Emotion & Interaction Labelling, Extreme stunt.
 
 🔹Project Type
@@ -41,11 +41,11 @@ https://www.linkedin.com/posts/samuel-olawuyi-6a476418a_dataannotation-aitrainin
 https://www.linkedin.com/posts/samuel-olawuyi-6a476418a_ai-machinelearning-artificialintelligence-activity-7305571893032419328-WME-?utm_source=share&utm_medium=member_android&rcm=ACoAACybONwBMH47i_c15FzkZcCAcAyQ1zfgL1A.
 
 Skills Demonstrated
-Video annotation· Sports action tagging · Frame-by-frame attention · Label consistency · Behavior annotation
+Video annotation· Sports action tagging · Frame-by-frame attention · Label consistency · 
 
    
 
-## 📝 Text Annotation Projects  
+## 📝 TEXT ANNOTATION PROJECTS
 Client: Remote Freelance Project
 Role: Text Annotator
 Tools/Platforms: Centific Proprietary Annotation platform
@@ -54,23 +54,23 @@ Date: 2022-2025
 📝 **Project Type:** sentiment analysis  
 🔹 Project Overview: This project involved sentiment analysis on AI-generated responses. Due to confidentiality agreements, specific instructions cannot be shared. However, the core task focused on categorising prompts and corresponding outputs into positive, negative, or neutral sentiments. The goal was to help improve the model’s ability to accurately detect emotionally relevant and contextually appropriate responses, ultimately enhancing the model’s understanding of user intent and emotional tone.
 
-🔹TaskPerformed
+**🔹TaskPerformed**
 Annotated prompts and AI responses with sentiment tags (positive, negative, neutral).
 Used proprietary annotation tools with strict accuracy guidelines.
 Reviewed complex or borderline samples to ensure correct sentiment categorisation.
 Reported edge cases to annotation leads for clarification and resolution.
 Maintained 100% task submission rates throughout the project.
 
-🔹Results.
+**🔹Results**.
 Labelled over 2,000 text samples with a QA accuracy score above 90%.
 Acknowledged for consistency and quality during internal audits.
 Contributed to smoother workflow by sharing suggestions on ambiguous labels.
 
-Confidentiality Note
+**Confidentiality Note**
 Due to NDA terms, specific dataset details and instruction content have been omitted.
 
 
-## 📝 Image Annotation Projects
+## 📝 IMAGE ANNOTATION PROJECTS.
 Client: Freelance Evaluation Task- Image Annotation (Remote)
 Role: Image Annotator
 Tools/Platforms: Cvat
@@ -78,32 +78,80 @@ Date: April 2025
 📝 **Project Type:**  This task involved pixel-level annotation of objects within images using a brush-based segmentation tool. Each visible object was required to be individually segmented and labelled using a predefined list of classes. Annotations were made with minimal overlap by utilising the “Remove Underlying Pixels” function to ensure mask clarity and accuracy. The ShowBitmap feature was used to maintain unannotated background pixels for better visual separation.
 Objects located behind glass surfaces were excluded from annotation to preserve data quality and follow task guidelines. In cases of unavoidable overlap, layer-based annotation was applied to differentiate between foreground and background elements.
 
-🔹Tasks Performed
+**🔹Tasks Performed**
 Manually segmented and labelled objects within images based on a given class list.
 Ensured clean annotations with minimal mask overlap.
 Skipped annotation of objects behind transparent surfaces (e.g., glass).
 Applied advanced techniques like layer-based segmentation when required.
 Followed task instructions strictly to maintain consistency and quality.
 
-🔹Results
+**🔹Results**
 Completed and submitted the task within the evaluation timeframe.
 Gained practical experience in brush-based segmentation techniques and visual QA standards.
 
-Confidentiality Note
+**Confidentiality Note**
 There weren't any form of NDA terms, which is why I have the confidence to share the link to
 The project I worked on
 https://drive.google.com/drive/folders/144iwWucJQx5nkxJ7TvkBpRjDIuWG8FrM?usp=sharing.
 
-Skills Demonstrated
+**Skills Demonstrated**
 Image annotation · Object segmentation · Attention to detail · Class labelling · Visual consistency · Layer management · Data labelling
 
-Challenges & How You Solved Them (Optional but powerful)
-
+**Challenges**
 Challenge: Distinguishing similar objects in cluttered scenes.
 Solution: Zoomed in and used layer-based annotations to keep masks separate.
 
 Challenge: Mask bleeding and pixel overlap.
 Solution: Used the “Remove Underlying Pixels” function efficiently to maintain clean separations.
+
+
+## 🎵 Audio Annotation Projects  
+ Project Title
+Interview Audio Annotation – Speaker Differentiation & Turn-Taking Detection
+Project Type
+Practical Assignment (via Softechub)
+**Project Overview**
+This project involved annotating a recorded interview between two speakers using Annotation Pro, with the goal of improving AI's ability to understand speaker roles, conversation flow, and turn-taking dynamics. The task was structured to support machine learning models in recognising when and how different individuals participate in a dialogue.
+
+**Tasks Performed**
+Identified and labelled speakers
+Annotated clear speaker turns, marking who was speaking and when the other was silent.
+Ensured high precision in detecting pauses, interruptions, and speaker transitions.
+Reviewed audio carefully to avoid overlap errors or misattributed speech.
+
+**Tools & Platforms Used**
+Annotation Pro – for precise time-based speaker tagging and segmentation.
+
+**Outcomes / Results**
+Successfully differentiated between two speakers with accurate role assignment.
+Delivered clean, structured annotations that support training of dialogue systems, speaker diarization models, and AI transcription tools.
+Demonstrated strong attention to detail and ability to handle real-world, unscripted conversations.
+
+**Confidentiality Note**
+As this was a structured assignment for educational purposes, no private or client-specific data is included. The project reflects simulated real-world annotation conditions.
+
+**Skills Demonstrated**
+Audio annotation · Speaker diarization · Turn-taking detection · Role labelling · Timestamped segmentation · Use of Annotation Pro · Detail-oriented analysis
+
+
+
+
+### 1️⃣ Speech Labeling – AI Speech Recognition Training  
+📝 **Project Type:** Audio Annotation for Automatic Speech Recognition (ASR)  
+🔹 **Tools Used:** Annotation Pro,  
+🔹 **Techniques:** Speaker Diarization, 
+📄 **Description:**  
+Labelled **spoken words and phrases** using **Annotation Pro** to train **speech recognition models**. Applied **speaker diarization** to differentiate multiple voices and **phoneme-level segmentation** for enhanced speech-to-text accuracy.  ![image](https://github.com/user-attachments/assets/832e90ca-8390-4e22-87c2-342c41a516e5)
+
+
+### 2️⃣ Music Classification – Genre & Instrument Identification  
+📝 **Project Type:** Audio Annotation for AI-driven Music Recognition  
+🔹 **Tools Used:** Annotation Pro, 
+🔹 **Techniques:** Genre Classification, Instrument Recognition,  
+📄 **Description:**  
+Annotated **music tracks** in **Annotation Pro** for AI-based **music recommendation systems**. Labelled drumset, lead guitar, trumpet, bass guitar and piano.
+![image](https://github.com/user-attachments/assets/491b6c74-2f24-456c-ba24-6c782fbbff2f)
+
 
 
 
@@ -173,42 +221,5 @@ Annotated different **cereal box brands** on retail shelves to train AI in **aut
 Labelled **vehicles in urban traffic scenes** to train AI models for **autonomous driving, traffic monitoring, and smart city solutions**. Focused on **precise vehicle detection and classification**.![image](https://github.com/user-attachments/assets/d0d83c49-a688-47b6-b5bb-3eccc71e065e)
 
 
-## 🎵 Audio Annotation Projects  
 
-### 1️⃣ Speech Labeling – AI Speech Recognition Training  
-📝 **Project Type:** Audio Annotation for Automatic Speech Recognition (ASR)  
-🔹 **Tools Used:** Annotation Pro, Audacity  
-🔹 **Techniques:** Speaker Diarization, 
-📄 **Description:**  
-Labelled **spoken words and phrases** using **Annotation Pro** to train **speech recognition models**. Applied **speaker diarization** to differentiate multiple voices and **phoneme-level segmentation** for enhanced speech-to-text accuracy.  ![image](https://github.com/user-attachments/assets/832e90ca-8390-4e22-87c2-342c41a516e5)
-
-
-### 2️⃣ Music Classification – Genre & Instrument Identification  
-📝 **Project Type:** Audio Annotation for AI-driven Music Recognition  
-🔹 **Tools Used:** Annotation Pro, 
-🔹 **Techniques:** Genre Classification, Instrument Recognition,  
-📄 **Description:**  
-Annotated **music tracks** in **Annotation Pro** for AI-based **music recommendation systems**. Labelled drumset, lead guitar, trumpet, bass guitar and piano.
-![image](https://github.com/user-attachments/assets/491b6c74-2f24-456c-ba24-6c782fbbff2f)
-
-
-📄 **Description:**  
-Annotated **text alongside images** to train AI models that integrate **visual and textual understanding**. Worked on **text descriptions, object labelling, and contextual alignment** to improve AI’s ability to interpret multimodal data. (https://docs.google.com/spreadsheets/d/1bNt9OI514I6O37RJiZeg5SxOuLdmLuiB0TMygZ4_lEA/edit?usp=sharing)
-
-Client: Remote Freelance Project
-Role: Image Annotator
-Tools/Platforms: Google spreadsheet, Notion.
-Date: July 2024 
-
-### 2️⃣ Sentiment Analysis – Training AI to Understand Emotions in Text  
-📝 **Project Type:** Text Annotation for Sentiment Classification  
-🔹 **Techniques:** Opinion Mining, Subjectivity Classification, Emotion Detection  
-🔹 **Tools Used:** LightTag, Doccano  
-📄 **Description:**  
-Labelled text data for **sentiment analysis models**, categorizing sentiments as **positive, negative, or neutral**. Applied **emotion detection techniques** to help AI understand human emotions in **social media posts, reviews, and chatbot interactions**. https://docs.google.com/spreadsheets/d/1pKWf2qQdxrnHjYVp7L_e8d0szpa_ZkTS3Dec_iQdzYQ/edit?usp=sharing
-
- 
-
-### 📫 Connect with Me:  
-🔗 [LinkedIn](https://www.linkedin.com/in/samuel-olawuyi-6a476418a/| ✉ Email: olawuyisamuel27@gmail.com 
 
