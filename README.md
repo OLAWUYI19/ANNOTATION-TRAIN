@@ -160,6 +160,10 @@ There weren't any form of NDA terms, which is why I have the confidence to share
 The project I worked on
 https://drive.google.com/drive/folders/144iwWucJQx5nkxJ7TvkBpRjDIuWG8FrM?usp=sharing.
 
+Image used before segmentation take place
+![8](https://github.com/user-attachments/assets/464129a9-63ff-442e-a9b6-cab1948e5d6d)
+
+
 **Skills Demonstrated**
 Image annotation · Object segmentation · Attention to detail · Class labelling · Visual consistency · Layer management · Data labelling
 
