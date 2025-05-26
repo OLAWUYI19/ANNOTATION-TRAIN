@@ -133,6 +133,10 @@ As this was a structured assignment for educational purposes, no private or clie
 **Skills Demonstrated**
 Audio annotation · Speaker diarization · Turn-taking detection · Role labelling · Timestamped segmentation · Use of Annotation Pro · Detail-oriented analysis
 
+Result.
+![image](https://github.com/user-attachments/assets/21b87460-bbbd-410b-ab1d-393d84237d5e)
+
+
 
 
 
