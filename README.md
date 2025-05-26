@@ -8,21 +8,22 @@ I'm a highly skilled Data Annotator with over three years of experience in text,
 ✔ Annotation tools & methodologies   
 ✔ Certified by **Softechub**  
 
+
+
+
+
+
 ## 📌 VIDEO ANNOTATION PROJECTS  
 Video Annotation – Football Activity Detection, Emotion & Interaction Labelling, Extreme stunt.
 
-🔹Project Type
+**🔹Project Type**
 Freelance Practical Task / Annotation Assignment (via Softechub)
 
-🔹Project Overview
-This project involved frame-by-frame video annotation to train computer vision and machine learning models in recognising specific actions, emotions, or interactions. The goal was to create accurate and consistent labels across key moments to support AI models in learning visual patterns over time.
+**🔹Project Overview**
+This project involved frame-by-frame video annotation to train computer vision and machine learning models in recognising specific actions, or interactions. The goal was to create accurate and consistent labels across key moments to support AI models in learning visual patterns over time.
 
 **In the Football Annotation Project**
-actions such as passing, tackling, dribbling and fouls were carefully tagged based on timecodes, it contains a frame count of 270.
-
-**In the "Lovers" Annotation Assignment,** 
-we focused on identifying  body language and interpersonal interactions like hugging and holding hands, and it contains 301 frame counts.
-
+actions such as passing, tackling, dribbling and fouls were carefully tagged based on timecodes, and it contains a frame count of 270.
 **Extreme Stunt Cyclist Annotation (Practical Task):**
 Involved in annotating high-speed stunts and risky manoeuvres performed by cyclists, which shows Key events like take-offs, mid-air flips, landings, and crash points. This helped in building models for action recognition. it contains 442 frame counts.
 
@@ -36,20 +37,30 @@ Ensured annotation consistency across scenes.
 CVAT
 **Outcomes / Results**
 Supported the development of datasets used for sports analysis, emotion detection, or human behaviour modelling.
-Received feedback from reviewers on LinkedIn/trainers at Softechub. 
+Received feedback from reviewers on LinkedIn/trainers at Softechub.
+**football annotation project**
 https://www.linkedin.com/posts/samuel-olawuyi-6a476418a_dataannotation-aitrainingdata-machinelearning-activity-7302769147925389312-_FqR?utm_source=share&utm_medium=member_android&rcm=ACoAACybONwBMH47i_c15FzkZcCAcAyQ1zfgL1A.
+**extreme stunt annotation project**
 https://www.linkedin.com/posts/samuel-olawuyi-6a476418a_ai-machinelearning-artificialintelligence-activity-7305571893032419328-WME-?utm_source=share&utm_medium=member_android&rcm=ACoAACybONwBMH47i_c15FzkZcCAcAyQ1zfgL1A.
 
-Skills Demonstrated
+**Skills Demonstrated**
 Video annotation· Sports action tagging · Frame-by-frame attention · Label consistency · 
 
-   
 
+
+
+
+
+
+
+
+
+   
 ## 📝 TEXT ANNOTATION PROJECTS
 Client: Remote Freelance Project
 Role: Text Annotator
 Tools/Platforms: Centific Proprietary Annotation platform
-Date: 2022-2025 
+Date: January2022- January2025 
 
 📝 **Project Type:** sentiment analysis  
 🔹 Project Overview: This project involved sentiment analysis on AI-generated responses. Due to confidentiality agreements, specific instructions cannot be shared. However, the core task focused on categorising prompts and corresponding outputs into positive, negative, or neutral sentiments. The goal was to help improve the model’s ability to accurately detect emotionally relevant and contextually appropriate responses, ultimately enhancing the model’s understanding of user intent and emotional tone.
@@ -63,11 +74,16 @@ Maintained 100% task submission rates throughout the project.
 
 **🔹Results**.
 Labelled over 2,000 text samples with a QA accuracy score above 90%.
-Acknowledged for consistency and quality during internal audits.
-Contributed to smoother workflow by sharing suggestions on ambiguous labels.
-
+Contributed to smoother workflow by sharing suggestions and asking questions whenever unclear with rules which increase the percentage of accuracy with projects handled.
 **Confidentiality Note**
 Due to NDA terms, specific dataset details and instruction content have been omitted.
+
+
+
+
+
+
+
 
 
 ## 📝 IMAGE ANNOTATION PROJECTS.
@@ -98,20 +114,25 @@ https://drive.google.com/drive/folders/144iwWucJQx5nkxJ7TvkBpRjDIuWG8FrM?usp=sha
 Image annotation · Object segmentation · Attention to detail · Class labelling · Visual consistency · Layer management · Data labelling
 
 **Challenges**
-Challenge: Distinguishing similar objects in cluttered scenes.
-Solution: Zoomed in and used layer-based annotations to keep masks separate.
+**Challenge**: Distinguishing similar objects in cluttered scenes.
+**Solution:** Zoomed in and used layer-based annotations to keep masks separate.
 
-Challenge: Mask bleeding and pixel overlap.
-Solution: Used the “Remove Underlying Pixels” function efficiently to maintain clean separations.
+**Challenge**: Mask bleeding and pixel overlap.
+**Solution:** Used the “Remove Underlying Pixels” function efficiently to maintain clean separations.
 
 
-## 🎵 Audio Annotation Projects  
- Project Title
+
+
+
+
+## 🎵 AUDIO ANNOTATION PROJECT.
+ **Project Title**
 Interview Audio Annotation – Speaker Differentiation & Turn-Taking Detection
-Project Type
+**Project Type**
 Practical Assignment (via Softechub)
+Date: March 2025
 **Project Overview**
-This project involved annotating a recorded interview between two speakers using Annotation Pro, with the goal of improving AI's ability to understand speaker roles, conversation flow, and turn-taking dynamics. The task was structured to support machine learning models in recognising when and how different individuals participate in a dialogue.
+This project involved annotating a recorded interview between two speakers using Annotation Pro, to improve AI's ability to understand speaker roles, conversation flow, and turn-taking dynamics. The task was structured to support machine learning models in recognising when and how different individuals participate in a dialogue.
 
 **Tasks Performed**
 Identified and labelled speakers
