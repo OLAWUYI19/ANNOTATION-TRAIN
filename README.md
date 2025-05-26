@@ -52,6 +52,7 @@ This project involved frame-by-frame video annotation to train computer vision a
 
 **In the Football Annotation Project** **(practical task)**
 Actions such as passing, tackling, dribbling and fouls were carefully tagged based on timecodes, and it contains a frame count of 270.
+
 **Extreme Stunt Cyclist Annotation (Practical Task):**
 Involved in annotating high-speed stunts and risky manoeuvres performed by cyclists, which shows Key events like take-offs, mid-air flips, landings, and crash points. This helped in building models for action recognition. It contains 442 frame counts.
 
@@ -63,6 +64,7 @@ Ensured annotation consistency across scenes.
 
 **Platform Used**
 CVAT
+
 **Outcomes / Results**
 Supported the development of datasets used for sports analysis, emotion detection, or human behaviour modelling.
 Received feedback from reviewers on LinkedIn/trainers at Softechub.
@@ -85,11 +87,14 @@ Video annotation· Sports action tagging · Frame-by-frame attention · Label co
 
 
 ## 🎵 AUDIO ANNOTATION PROJECT.
+
  **Project Title**
 Interview Audio Annotation – Speaker Differentiation & Turn-Taking Detection
+
 **Project Type**
 Practical Assignment (via Softechub)
 Date: March 2025
+
 **Project Overview**
 This project involved annotating a recorded interview between two speakers using Annotation Pro, to improve AI's ability to understand speaker roles, conversation flow, and turn-taking dynamics. The task was structured to support machine learning models in recognising when and how different individuals participate in a dialogue.
 
@@ -130,10 +135,12 @@ Result.
 
 
 ## 📝 IMAGE ANNOTATION PROJECTS.
+
 Client: Freelance Evaluation Task- Image Annotation (Remote)
 Role: Image Annotator
 Tools/Platforms: Cvat
 Date: April 2025
+
 📝 **Project Type:**  This task involved pixel-level annotation of objects within images using a brush-based segmentation tool. Each visible object was required to be individually segmented and labelled using a predefined list of classes. Annotations were made with minimal overlap by utilising the “Remove Underlying Pixels” function to ensure mask clarity and accuracy. The ShowBitmap feature was used to maintain unannotated background pixels for better visual separation.
 Objects located behind glass surfaces were excluded from annotation to preserve data quality and follow task guidelines. In cases of unavoidable overlap, layer-based annotation was applied to differentiate between foreground and background elements.
 
@@ -157,6 +164,7 @@ https://drive.google.com/drive/folders/144iwWucJQx5nkxJ7TvkBpRjDIuWG8FrM?usp=sha
 Image annotation · Object segmentation · Attention to detail · Class labelling · Visual consistency · Layer management · Data labelling
 
 **Challenges**
+
 **Challenge**: Distinguishing similar objects in cluttered scenes.
 **Solution:** Zoomed in and used layer-based annotations to keep masks separate.
 
