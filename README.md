@@ -178,6 +178,32 @@ Image annotation · Object segmentation · Attention to detail · Class labellin
 **Challenge**: Mask bleeding and pixel overlap.
 **Solution:** Used the “Remove Underlying Pixels” function efficiently to maintain clean separations.
 
+Client: Softechub Assignment
+Role: Image Annotator
+Tools/Platforms: Cvat
+Date: March 2025.
+
+**Project Type:** THE IMAGES BELOW SHOWS THE GUIDELINE TO BE FOLLOWED
+![s1](https://github.com/user-attachments/assets/3d8727c8-784d-43a0-9d66-fcf3b105795b)
+![s2](https://github.com/user-attachments/assets/e7b0bd60-beaf-42c3-9787-65b73c269b17)
+![s3](https://github.com/user-attachments/assets/107b1009-9702-42c7-ae9b-050a56d217b4)
+![s4](https://github.com/user-attachments/assets/41e46250-709d-4808-8984-562e38e4f9a3)
+![s5](https://github.com/user-attachments/assets/3c139dac-171a-4c33-a405-2364aa1e17c8)
+![s6](https://github.com/user-attachments/assets/d922a99d-8714-4c0c-b829-3401c32f242f)
+![s7](https://github.com/user-attachments/assets/1c0850de-96e5-4e22-825a-c9c011d823ce)
+![s8](https://github.com/user-attachments/assets/699c0362-f7dd-4ec8-a005-ec494c37c0b6)
+![s10](https://github.com/user-attachments/assets/fc32e272-7a02-4e1c-8b8f-d261ef47a10d)
+![s11](https://github.com/user-attachments/assets/5588dc65-5088-4cf7-ad3e-505f29896436)
+
+**RESULT OF THE TASK DONE**
+![image](https://github.com/user-attachments/assets/bc02cca0-07ce-4fdb-a4ca-d805921cf18f)
+![image](https://github.com/user-attachments/assets/8fe54841-dcc7-4250-aa4c-16415910c3aa)
+![image](https://github.com/user-attachments/assets/6a828f0d-72db-4d0e-b66a-1f25ece2abde)
+
+
+
+
+
 
 
 
